@@ -9,4 +9,4 @@ Conway's game of life operates under a simple set of conditions. It's described 
 - Any dead cell with exactly three living neighbors lives next generation. 
 
 ## Installation & How to use
-The program can be executed either by downloading the documents through a zipfile or cloning the repository to a local device through the following commandline argument: `git clone https://github.com/Robinwohner/Cellular-Automata`. Compile the program with the Ncurses library: `gcc -o ca ca.c -lncurses`. Finally run the program, `./ca` and follow the instructions on the screen. 
+The program can be executed either by downloading the documents through a zipfile or cloning the repository to a local device through the following commandline argument: `git clone https://github.com/Robinwohner/Cellular-Automata`. Compile the program with the Ncurses library: `gcc -o ca ca.c -lncurses`. Finally maximize the terminal window and run the program: `./ca`. 
